@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+    width:15%;
+    height:400px;
+    background-color:burlywood;
+    color:black;
+    float:left;
+    margin-left: 110px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('bangles.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-style: italic;
+    
+}
+
+
+.div2{
+    width:15%;
+    height: 400px;
+    background-color: coral;
+    color: black;
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 60px;
+    border-radius: 5%;
+    background-image:url('toy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-style: italic;
+}
+
+.div3{
+    width:15%;
+    height: 400px;
+    background-color:darksalmon;
+    color: black;
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 60px;
+    border-radius: 5%;
+    background-image:url('toytable.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-style: italic;
+}
+
+.div4{
+    width:20%;
+    height: 400px;
+    background-color:indianred;
+    color: black;
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 60px;
+    border-radius: 5%;
+    background-image:url('pot.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-style: italic;
+}
+.div5{
+    width:15%;
+    height:400px;
+    background-color:burlywood;
+    color:black;
+    float:left;
+    margin-left: 110px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    font-style: italic;
+}
+.div6{
+    width:15%;
+    height: 400px;
+    background-color: coral;
+    color: black;
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 60px;
+    border-radius: 5%;
+    font-style: italic;
+}
+
+.div7{
+    width:15%;
+    height: 400px;
+    background-color:darksalmon;
+    color: black;
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 60px;
+    border-radius: 5%;
+    font-style: italic;
+}
+
+.div8{
+    width:15%;
+    height: 400px;
+    background-color:indianred;
+    color: black;
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 60px;
+    border-radius: 5%;
+    font-style: italic;
+}

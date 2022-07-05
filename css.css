@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header1{
+    background-color: aqua;
+    color: black;
+    height: 150px;
+}
+
+.header1>h1{
+
+color: crimson;
+margin-left: 400px;
+font-size: xx-large;
+
+}
+.header1>ul{
+    font-style: oblique;
+    margin-left: 400px;
+}
+.medium {
+    background-color: cadetblue;
+    color: black;
+    height: 150px;
+}
+.medium>h1{
+    margin-left: 400px;
+    color: crimson;
+    font-size: xx-large;
+}

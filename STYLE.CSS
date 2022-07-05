@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.header1{
+background-color: cadetblue;
+color: darkblue;
+width: 100%;
+height: 65px;
+}
+
+.header1 >h1{
+    line-height: 60px;
+    margin-left: 40px;
+    float: left;
+    
+}
+.header1 >ul{
+
+list-style-type: none;
+display: flex;
+line-height: 65px;
+float: right;
+}
+.HTML{
+    margin-right: 10PX;
+}
+
+.CSS{
+    margin-right: 10PX;
+}
+
+.JAVASCRIPT{
+    margin-right: 10PX;
+}
+
+.SQL{
+    margin-right: 10PX;
+}
+
+.PYTHON{
+    margin-right: 10PX;
+}
+
+
+    a{
+        color:inherit;
+        text-decoration:none;
+        font-size:20px;
+        font-weight:bold;
+    }
+
+    .banner{
+        width:100%;
+        height:592px;
+        background-color:rgb(98, 119, 158);
+    }
+
+    .left-banner{
+        width:20%;
+        height:592px;
+        background-color:darkturquoise;
+        color:white;
+        float:left;
+    }
+.left-banner>h1{
+    color: black;
+    font-style: oblique;
+}
+
+
+
+
+
+    .left-banner>ul>li{
+        text-align: center;
+        line-height: 40px;
+    }
+
+    .right-banner{
+
+      width: 80%;  
+      height:592px;
+      background-image: url('html.jpg');
+      background-size: contain;
+      float:left
+
+    }
